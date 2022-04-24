@@ -19,12 +19,13 @@ for x in range(len(oldlist)):
     list_of_letters = list(y)
     newlist.append(list_of_letters)
 
+
 #print(newlist)
-text = 
 #This prints out the changed picture
 for i in range(len(newlist)):
     for j in range(len(newlist[i])):
         print(newlist[i][j], end='')
+
 
 
   
